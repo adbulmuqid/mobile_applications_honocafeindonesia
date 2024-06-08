@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "531789780221",
+    "project_id": "honocaffesurabaya-mjz5yx",
+    "storage_bucket": "honocaffesurabaya-mjz5yx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531789780221:android:514413746b1435090e9a94",
+        "android_client_info": {
+          "package_name": "com.mycompany.caffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531789780221-46ad9iif470d830jgl7mdlf067qcdf6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.caffe",
+            "certificate_hash": "207838bd6078c94055bdaee0df3a72c19949796d"
+          }
+        },
+        {
+          "client_id": "531789780221-rrkd61tkinejlcrc4ol8p5gvmt6qs1uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.caffe",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "531789780221-ldf3k0kdg2d52ril506duffouv52bb3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5-88DH0yCWaJEWMqhuZM7MynYQYU8uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531789780221-8ujcvil9a4hem6a0n0unl1ibggs0jtat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531789780221-1boupre4bro0co8ftj9c1jjdopb6e32u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.caffe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531789780221:android:fa24ba7b0910942b0e9a94",
+        "android_client_info": {
+          "package_name": "com.mycompany.honocaffesurabaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531789780221-pib39fmd5sr50p0u69bnn3lt03bvq5ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.honocaffesurabaya",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "531789780221-uc2puq778h0leuegbek13lb4brpadiee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.honocaffesurabaya",
+            "certificate_hash": "207838bd6078c94055bdaee0df3a72c19949796d"
+          }
+        },
+        {
+          "client_id": "531789780221-ldf3k0kdg2d52ril506duffouv52bb3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5-88DH0yCWaJEWMqhuZM7MynYQYU8uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531789780221-8ujcvil9a4hem6a0n0unl1ibggs0jtat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531789780221-1boupre4bro0co8ftj9c1jjdopb6e32u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.caffe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
